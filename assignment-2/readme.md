@@ -6,4 +6,4 @@ My [Responces](./response.txt
 
 My work for this week went rather smoothly. I am already familiar with how atom and github work individually and together. I love these two programs and im excited that i already have some knowledge going into this class.
 
-![Image of My Atom Editor](.images/screenshot.png)
+![Image of My Atom Editor](.images/assignment-2-screenshot.png)
