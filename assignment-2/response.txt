@@ -1,0 +1,15 @@
+1. Data travels through the internet by many ways but one way
+is sent in bits by electricity. The rate at which information
+is sent by electricity is determined by bandwidth which is the
+max capacity and the actual rate is called bit rate.
+
+2. An ip address (internet protocol address) is an address that is unique to
+the device, something similar to a street address of a house. we use IPv6
+which uses up to 128 bits and can account for 340 undecillion unique
+addresses. Your computer uses DNS to look up domain names and get their
+ip addresses and connect to that domain.
+
+3.Cookies are data that websites use to remember who you are. This is saved
+in your web browser that allows websites to remember you.
+
+4. protocol, domain name, path and file.
