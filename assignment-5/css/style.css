@@ -1,0 +1,45 @@
+body {
+   font-family: Arial;
+   background-color:rgb(18, 213, 198);
+}
+
+
+ h1 {
+   text-align: center;
+   font-size: 100px;
+   color: rgb(214, 186, 39);
+    opacity: 0.8;
+ }
+
+/* creating the main container with the colors of the 70s*/
+ .main-container {
+   background-color: rgb(193, 84, 6);
+   border-style: solid;
+   border-width: 15px;
+   border-color: rgb(53, 84, 47);
+   padding: 200px;
+
+ }
+ .container {
+   background-color: rgb(53, 84, 47);
+
+ }
+
+ p {
+   color: rgb(18, 213, 198);
+   font-size: 50px;
+   font-style: bold;
+   text-align: center;
+
+ }
+
+p em {
+  text-decoration: underline;
+  }
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
