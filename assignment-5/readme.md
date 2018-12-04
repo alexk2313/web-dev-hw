@@ -6,4 +6,4 @@ randomly within my page to just make it look as tacky and ugly as possible.
 Some of the colors i used are rgb(214, 186, 39), rgb(18, 213, 198), rgb(193, 84, 6), and rgb(53, 84, 47).
 3. The work cycle for me was rather easy. It was alot of applying what we already know to the seperate style sheet. I quite liked this because it cleaned up my
 html file.
-![Image of My Atom Editor](./images/Workspace.jpg)
+![Image of My Atom Editor](./images/workspace.jpg)
