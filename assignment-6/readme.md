@@ -12,4 +12,4 @@
  The work for this assignment was a review from past classes within the media arts major. Ive studied typography for my photoshop classes and my video production as well.
  It was interesting to learn how to apply typography to a website instead of the other mediums i am already used to. I found it enjoyable and rather easy to apply typography to html.
 
- ![Image of My Atom Editor](./images/Workspace.jpg)
+ ![Image of My Atom Editor](./Images/Workspace.jpg)
