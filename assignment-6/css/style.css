@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Satisfy');
+
+
+h1 {
+   font-family: 'Satisfy', cursive;
+   text-align: center;
+   font-size: 60pt;
+   font-weight: bolder;
+}
+
+h2 {
+     font-family: 'Satisfy', cursive;
+     text-align: right;
+     font-size: 40pt;
+     font-weight: lighter;
+     font-style: italic;
+}
+
+p::first-letter {
+   font-family: 'Open Sans', sans-serif;
+   font-size: 40pt;
+   font-weight: bold;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: normal;
+  text-align:left;
+  font-size: 15pt;
+  font-weight: normal;
+
+}
+
+
+.container{
+  border-style: solid;
+  border-width: 30px;
+  border-color: rgb(106, 19, 19);
+  padding: 200px;
+}
+
+a {
+   color: rgb(85, 85, 85);
+   text-decoration: none;
+}
+
+a:visited {
+   color: rgb(106, 19, 19);
+   text-decoration: none;
+}
+
+a:hover {
+   color: rgb(162, 151, 0);
+   font-style: italic;
+}

@@ -1,0 +1,13 @@
+@font-face {
+font-family: 'Satisfy';
+src: url('../fonts/Satisfy-regular.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Open Sans';
+src: url('../fonts/OpenSans-regular.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
